@@ -1,0 +1,13 @@
+﻿@model IEnumerable<NavigationItem>
+
+<ol class="breadcrumb">
+    @foreach (var navItem in Model)
+    {
+        <li>
+            <a class="@(navItem.Active ? "active" : String.Empty)"
+               href="@navItem.URL">
+                @navItem.Title
+            </a>
+        </li>
+    }
+</ol>

@@ -1,0 +1,8 @@
+D:\Users\lraveli.sitecore\source\repos\TAC\TAC.Sitecore.Abstractions\obj\Debug\TAC.Sitecore.Abstractions.csproj.CoreCompileInputs.cache
+D:\Users\lraveli.sitecore\source\repos\TAC\TAC.Sitecore.Abstractions\bin\Debug\TAC.Sitecore.Abstractions.dll
+D:\Users\lraveli.sitecore\source\repos\TAC\TAC.Sitecore.Abstractions\bin\Debug\TAC.Sitecore.Abstractions.pdb
+D:\Users\lraveli.sitecore\source\repos\TAC\TAC.Sitecore.Abstractions\bin\Debug\Sitecore.Kernel.dll
+D:\Users\lraveli.sitecore\source\repos\TAC\TAC.Sitecore.Abstractions\bin\Debug\Sitecore.Mvc.dll
+D:\Users\lraveli.sitecore\source\repos\TAC\TAC.Sitecore.Abstractions\obj\Debug\TAC.Sitecore.Abstractions.csproj.CopyComplete
+D:\Users\lraveli.sitecore\source\repos\TAC\TAC.Sitecore.Abstractions\obj\Debug\TAC.Sitecore.Abstractions.dll
+D:\Users\lraveli.sitecore\source\repos\TAC\TAC.Sitecore.Abstractions\obj\Debug\TAC.Sitecore.Abstractions.pdb
